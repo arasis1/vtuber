@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'V-tuber Gallery Server'
+productName: '버갤섭런쳐'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2022 Daniel Scalzi'
+copyright: 'Copyright © 2018-2022 Daniel Scalzi modified by yisara'
 
 asar: true
 compression: 'maximum'
